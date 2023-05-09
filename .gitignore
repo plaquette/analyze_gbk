@@ -1,0 +1,6 @@
+/.nextflow
+/results
+/work
+/out
+.nextflow.*
+run_it.sh
